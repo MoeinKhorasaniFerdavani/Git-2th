@@ -26,6 +26,7 @@ int main()
 	cout << "Hello world" << endl;
 	c clas;
 	clas = 2;
+	// comment
 	system("pause");
 	return 0;
 }
