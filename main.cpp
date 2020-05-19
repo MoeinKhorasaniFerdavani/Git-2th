@@ -28,5 +28,7 @@ int main()
 	clas = 2;
 	// comment
 	system("pause");
+       // hello
+
 	return 0;
 }
