@@ -15,6 +15,12 @@ Employee::Employee()
 	cin >> this->salery;
 }
 
+void Employee::setSalery(int salery)
+{
+	this->salery = salery;
+
+}
+
 
 Employee::~Employee()
 {

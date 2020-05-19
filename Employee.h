@@ -11,7 +11,7 @@ class Employee
 	
 public:
 	Employee();
-	
+	void setSalery(int);
 	~Employee();
 };
 
