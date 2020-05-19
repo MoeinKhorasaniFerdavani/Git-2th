@@ -1,6 +1,7 @@
 // IN THE NAME OF GOD
 #include <iostream>
 using namespace std;
+//Git hub proje
 
 class c
 {
