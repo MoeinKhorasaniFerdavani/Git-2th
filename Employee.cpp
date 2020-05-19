@@ -3,7 +3,7 @@
 
 
 Employee::Employee()
-{
+{//Constructor
 	cout << "\nEnter Employee filed" << endl;
 	cout << "Famliy:\t";
 	cin >> this->family;
