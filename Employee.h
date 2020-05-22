@@ -7,7 +7,7 @@ class Employee
 	string family ,name;
 	int id, salery;
 	
-	//slkdfj
+	
 	
 public:
 	Employee();
