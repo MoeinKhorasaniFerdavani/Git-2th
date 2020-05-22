@@ -4,8 +4,8 @@ using namespace std;
 class Employee
 {
 	//hello
-	string family ,name;
-	int id, salery;
+	
+	//int id, salery;
 
 public:
 	Employee();
