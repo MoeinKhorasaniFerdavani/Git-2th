@@ -12,7 +12,11 @@ class Employee
 
 =======
 	
+<<<<<<< HEAD
 	//slkdfj
+>>>>>>> new
+=======
+	
 >>>>>>> new
 	
 public:
