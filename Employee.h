@@ -7,9 +7,6 @@ class Employee
 	string family ,name;
 	int id, salery;
 
-	string name;
-	string family;
-
 public:
 	Employee();
 	void setSalery(int);
