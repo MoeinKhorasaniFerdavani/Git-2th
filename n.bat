@@ -1,2 +1,1 @@
-s
-hello
+pause
