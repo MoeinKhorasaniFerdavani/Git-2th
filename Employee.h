@@ -8,6 +8,7 @@ class Employee
 	int id, salery;
 	string name;
 	string family;
+	//salam
 
 	
 public:
