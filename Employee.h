@@ -9,16 +9,7 @@ class Employee
 
 	string name;
 	string family;
-<<<<<<< HEAD
-	//salam
-=======
-	//sala
-	//ha
-	//hewasd
->>>>>>> list
 
-
-	
 public:
 	Employee();
 	void setSalery(int);
