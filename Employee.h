@@ -6,7 +6,8 @@ class Employee
 {
 	string family ,name;
 	int id, salery;
-	///comment
+	string name;
+	string family;
 
 	
 public:
