@@ -21,6 +21,15 @@ void Employee::setSalery(int salery)
 
 }
 
+Employee Employee::operator=(const Employee& rvalue)
+{
+	this->family = rvalue.family;
+	this->name = rvalue.name;
+	this->id = rvalue.id;
+	this->salery = rvalue.salery;
+	return rvalue;
+}
+
 
 Employee::~Employee()
 {
