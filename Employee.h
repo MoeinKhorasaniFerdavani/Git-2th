@@ -13,8 +13,6 @@ class Employee
 
 
 	
-	//hewll
-	
 public:
 	Employee();
 	void setSalery(int);
