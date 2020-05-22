@@ -9,6 +9,9 @@ class Employee
 
 	string name;
 	string family;
+	//salam
+	//hal
+	//hew
 
 
 	
