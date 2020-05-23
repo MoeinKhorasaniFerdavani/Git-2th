@@ -25,5 +25,10 @@ public:
 	~Employee();
 };
 
+<<<<<<< HEAD
 //comment
+>>>>>>> list
+=======
+
+//c
 >>>>>>> list
