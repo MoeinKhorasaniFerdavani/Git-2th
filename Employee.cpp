@@ -2,6 +2,14 @@
 
 
 
+
+
+
+
+
+
+
+
 Employee::Employee()
 {//Constructor
 	cout << "\nEnter Employee filed" << endl;
